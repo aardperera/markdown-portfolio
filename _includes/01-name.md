@@ -1,3 +1,1 @@
-# Welcome to My Portfolio
-
-## Ranjana Perera
+# Ranjana Perera
