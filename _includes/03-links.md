@@ -1,3 +1,3 @@
-# Contact me:
-- [Github-Profile](https://github.com/aardperera)
-- [Linkedin-Profile](https://www.linkedin.com/in/ranjana-perera/)
+## **Contact me:**
+- [_Github-Profile_](https://github.com/aardperera)
+- [_Linkedin-Profile_](https://www.linkedin.com/in/ranjana-perera/)
