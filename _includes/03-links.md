@@ -1,5 +1,5 @@
 Contact me:
 <br>
-https://github.com/aardperera
+[Github-Profile](https://github.com/aardperera)
 <br>
-https://www.linkedin.com/in/ranjana-perera/
+[Linkein-Profile](https://www.linkedin.com/in/ranjana-perera/)
