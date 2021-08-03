@@ -1,1 +1,5 @@
-Replace this with a link to your a GitHub or social media profile.
+Contact me:
+<br>
+https://github.com/aardperera
+<br>
+https://www.linkedin.com/in/ranjana-perera/
